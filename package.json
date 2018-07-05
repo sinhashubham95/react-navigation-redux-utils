@@ -1,6 +1,6 @@
 {
   "name": "react-navigation-redux-utils",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Utilities for react navigation which provide the functionalities of redux without integration with redux which has been deprecated from the react navigation end.",
   "main": "src/index.js",
   "scripts": {
